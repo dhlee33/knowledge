@@ -2,6 +2,7 @@
 ===
 원문: https://twittemb.github.io/swift/coordinator/reactive/rxflow/reactive%20programming/2017/12/09/rxflow-part-2-in-practice/
 ![RxFlow](https://twittemb.github.io/uploads/RxFlowPart2.png)
+- [번역) RxFlow Part 1: In Theory](https://github.com/ydh1304/knowledge/blob/master/iOS/RxFlow1.md)
 
 몇 주 전에 RxFlow 라는 iOS 프레임 워크를이 블로그에 소개했습니다. 나는 이 프레임 워크를 몇 달 동안 사용해 왔으며 이제 사용할 준비가 되었습니다. 아직 읽지 않았다면 [이 게시물](https://twittemb.github.io/swift/coordinator/rxswift/rxflow/reactive%20programming/2017/11/08/rxflow-part-1-in-theory/)을 살펴 보시기 바랍니다.
 
@@ -24,6 +25,7 @@
 RxFlow는 상속 계층 구조에 코드를 동결하지 않도록 프로토콜 지향 프로그래밍을 사용한다는 것을 명심하는 것도 중요합니다.
 
 [RxFlow repo](https://github.com/RxSwiftCommunity/RxFlow)에서 모든 가능한 네비게이션 타입을 보여주는 데모 앱을 볼 수 있습니다.
+
 ![Demo app](https://twittemb.github.io/uploads/versions/demoweavy-mov---x----185-400x---.gif)
 
 ## 모든 것이 상태에 관한 것입니다. ##
@@ -337,5 +339,3 @@ did navigate flow=RxFlowDemo.SettingsFlow step=settingsDone
 **RxFlow** 에 관한 세 번째이자 마지막 포스트는 모든 반응 메커니즘을 구현하는 데 사용한 팁과 트릭에 관한 것입니다.
 
 계속 지켜봐주세요.
-
-- [번역) RxFlow Part 1: In Theory](https://github.com/ydh1304/knowledge/blob/master/iOS/RxFlow1.md)

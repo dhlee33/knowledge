@@ -1,6 +1,7 @@
 번역) RxFlow Part 1: In Theory
 ===
 원문: https://twittemb.github.io/swift/coordinator/rxswift/rxflow/reactive%20programming/2017/11/08/rxflow-part-1-in-theory/
+- [번역) RxFlow Part 2: In Practice](https://github.com/ydh1304/knowledge/blob/master/iOS/RxFlow2.md)
 
 **RxFlow**는 iOS 어플리캐이션 안에 반응형 흐름 코디네이터(Reactive Flow Coordinator)를 구현합니다. **RxFlow**는 RxSwiftCommunity가 지원하는 프로잭트 입니다.
 
@@ -71,5 +72,3 @@ RxFlow를 이해하기 위해 익숙해져야하는 6가지 용어가 있습니�
 이 첫 번째 기사는 이 프레임워크의 개념적 및 이론적 측면을 다룹니다. 다음 기사에서는 RxFlow 에 대해 코드 샘플을 통해 보다 기술적인 관점에서 설명합니다.
 
 이미 RxFlow 의 GitHub 레포를 탐색할 수 있습니다. 데모 애플리케이션이 포함되어  있습니다. https://github.com/RxSwiftCommunity/RxFlow
-
-- [번역) RxFlow Part 2: In Practice](https://github.com/ydh1304/knowledge/blob/master/iOS/RxFlow2.md)
